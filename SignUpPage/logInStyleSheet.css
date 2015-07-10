@@ -1,0 +1,22 @@
+.center {
+margin:auto;
+width:70%;
+background-color:#b0e0e6;
+
+
+
+}
+
+.border {
+     width:560px;
+    height:500px;
+    border:10px outset maroon;
+    background-color:rgb(197,179,88);
+    color:white;
+	margin-top:100px;
+    margin-bottom:100px;
+    margin-right:150px;
+    margin-left:190px;
+
+
+}
